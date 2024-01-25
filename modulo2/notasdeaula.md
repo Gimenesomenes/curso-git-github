@@ -13,3 +13,5 @@
 ## git add [nome do arquivo]
 
     Vai adicionar um arquivo especifico. 
+
+### Git commit
